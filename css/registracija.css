@@ -1,0 +1,8 @@
+form{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+.prijava{
+    margin-bottom: 10%;
+}

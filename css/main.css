@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap');
+
+body{
+    box-sizing: border-box;
+    margin: 0 10% 0 10%;
+    font-family: Montserrat;
+   
+}
+#slovaNavigacije{
+    color: #2A2728;
+}
+#slovaNavigacije2{
+    color: #E21E30;
+}
+.crveni{
+    
+    float: right;
+    border: 0;
+    background-color: #E21E30;
+    height: 15px;
+    width: 150px;
+}
+.crni{
+    float: right;
+    border: 0;
+    background-color: #2A2728;
+    height: 15px;
+    width: 300px;
+}
+
+
+#jedan{
+    background-color: red;
+}
+.ugao{
+    float: right;
+   width: 100%;
+}
+.logo{
+    margin: auto;
+}
+
+a, a:hover{
+    color: black;
+}
+dt{
+   font-weight: 900;
+    font-size: 0,5em;
+    margin-left:5%;
+    float: left;
+    text-shadow: 0px 0px 45px rgba(42,39,40,34);  
+}
+dl{
+    margin-top: 40%;
+}
+
+.navbar{
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+
+#crveniNav{
+    color:  #E21E30;
+}
+
+.navigacija{
+    background-color: white;
+    box-shadow: 0px ;
+    border: 0px;
+}
+
+.navigacija2{
+    font-weight: 900;
+    background-color: white;
+    box-shadow: 0px ;
+    border: 0;
+    border-bottom: 1px solid black;
+}
+
+.logovanje{
+    padding: 20px;
+    font-weight: 300;
+}
+
+.logovanjeButton{
+    font-weight: 600;
+}
+
+.prviSegment{
+    padding: 25px;
+    background-color: white;
+    
+}
+.ceoPrviSegment{
+    border-bottom: 2px solid #E21E30;
+}
+
+#slovaPrvogSegmenta{
+    color: #E21E30;
+   
+    font-weight: 800;
+    font-size: 3em;
+}
+
+.prviSegmentDugme{
+    background-color: white;
+    color: #E21E30;
+    border: 1px solid black;
+    font-weight: 600;
+    box-shadow: 2px 2px rgba(0,0,0,0.2);
+   
+}
+
+.prviSegmentDugme:hover{
+    background-color:rgba( 226, 30, 48, 0.9);
+    color: white;
+}
+
+.prviSegmentDugme:active:focus, .prviSegmentDugme:focus{
+    background-color:rgba( 226, 30, 48, 0.9);
+    color: white;
+    border: 0;
+}
+
+
+.desniDeoPrvogSegmenta{
+    margin-top: 2%;
+}
+
+.telefon{
+    width: 100%;
+}
+
+
+
+
+
+.desniDeoDrugogSegmenta{
+    margin-top: 15%;
+    width: 70%;
+    box-shadow: 1px 1px rgba(0,0,0,0.6);
+}
+
+.drugiSegmentDugme{
+    border-color: rgb( 226, 30, 48);
+    font-weight: 600;
+    margin: auto;
+}
+
+.drugiSegmentSlika{
+    box-shadow: 2px 2px rgba(0,0,0,0.4);
+}
+
+.mojThumbnail{
+    margin: 0;
+}
+.leviDeoTrecegSegmenta{
+    width: 70%;
+    margin: auto;
+    margin-top: 20%;
+}
+.footer{
+    background-color: #2A2728;
+    color: white;
+    padding: 15px;
+}
+
+.affix{
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    position: sticky;
+}
+#dugmeTrazi{
+    background-color: white;
+    border: 0;
+    color: #2A2728;
+    font-weight: 900;
+}
+.searchPolje{
+    background-color: white;
+    border: 0;
+}
+#inputSearch{
+    width: 60%;
+    border: 0;
+    border-bottom: 1px solid black;
+    font-weight: 300;
+    margin-left: 2%;
+}
+
+.inputSearch2:focus{
+    outline: none;
+}
+
+.divSearch{
+    margin-left: 20%;
+}
+
+#brojUKorpi{
+    color: #E21E30 !important;
+}
+
+.traziDugme{
+    background-color: white;
+    border: none;
+}
+

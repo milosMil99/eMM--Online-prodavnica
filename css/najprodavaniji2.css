@@ -1,0 +1,66 @@
+.prodaja{
+    background-color: #fafafa;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+}
+.uredjaj{
+    width:100%;
+}
+.brzaKupovinaSLika{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slika{
+    margin-left:20%;
+}
+
+.marka{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.model{
+    font-size: 1.2em;
+}
+
+.najprodavaniji{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    
+}
+
+.dugmeSaznajte{
+    margin-left: 35%;
+}
+.NaslovProdaje{
+    font-size: 2.8em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.kontakt{
+    background-color: #e6e6e6;
+    
+}
+.pitanje{
+    width: 30%;
+    margin-top: 13%;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+
+.tekst{
+    width: 60%;
+    text-align: left;
+    margin-left:20%;
+    font-weight: 500;
+}
+
+.dugmeKontakt{
+    background-color: #e6e6e6;
+    width: 150px;
+    height: 50px;
+    margin-left: 40%;
+}
+

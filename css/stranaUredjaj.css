@@ -1,0 +1,54 @@
+.slikeSaStrane{
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain;
+}
+
+#maleSlike{
+    background-color: white;
+    outline: none;
+    border: none;
+}
+
+.specifikacije{
+    padding: 10%;
+    
+}
+
+.jedanSpec{
+    margin-bottom: 7px;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    font-weight: 300;
+    font-size: 1.3em;
+}
+
+.resenje{
+    text-align: right;
+    font-weight: 500;
+}
+
+.kupi{
+    background-color: #E21E30;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 50px;
+   
+}
+.zaDetalje{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#detalji{
+    
+    background-color: white !important;
+    color: black;
+}
+
+.cena{
+    color: #E21E30 !important;
+}
